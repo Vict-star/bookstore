@@ -7,6 +7,8 @@
 </head>
 
 <body>
+    大家好哈哈哈哈！
 	<jsp:forward page="ShowIndexServlet"></jsp:forward>
+
 </body>
 </html>
