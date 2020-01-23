@@ -11,4 +11,7 @@
 	<jsp:forward page="ShowIndexServlet"></jsp:forward>
 
 </body>
+<%
+System.out.println("hahhahaha");
+%>
 </html>
